@@ -1,0 +1,23 @@
+{
+    "Default": {
+        "form": 0.0,
+        "wallpaper": 0.0,
+        "on/off": 0.0,
+        "bypass": 0.0,
+        "lowpass": 20000.0,
+        "highpass": 60.0,
+        "gainlowshelf": 1.0,
+        "freqlowshelf": 440.0,
+        "gainhighshelf": 1.0,
+        "freqhighshelf": 2500.0,
+        "gainpeakeq": 1.0,
+        "freqpeak": 1000.0,
+        "qualitypeak": 1.0,
+        "mixeq": 1.0,
+        "feedback": 0.5,
+        "reverbcutoff": 480.0,
+        "mix": 0.0,
+        "filebutton24": 0.0,
+        "filebutton25": 0.0
+    }
+}
